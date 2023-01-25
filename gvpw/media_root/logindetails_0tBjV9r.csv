@@ -1,0 +1,8 @@
+username,first_name,last_name,email,is_staff,is_student,is_faculty,password
+19JG1A0501,Niharika,Akkini,19jg1a0501@gvpcew.ac.in,FALSE,TRUE,FALSE,19JG1A0501
+19JG1A0502,Amulya,Suravarajula,19jg1a0501@gvpcew.ac.in,FALSE,TRUE,FALSE,19JG1A0502
+19JG1A0503,Anjali,Kumari,19jg1a0501@gvpcew.ac.in,FALSE,TRUE,FALSE,19JG1A0503
+19JG1A0504,Amrutha,B,19jg1a0501@gvpcew.ac.in,FALSE,TRUE,FALSE,19JG1A0504
+19JG1A0505,Aruna,B,19jg1a0501@gvpcew.ac.in,FALSE,TRUE,FALSE,19JG1A0505
+19JG1A0506,Tejaswini,B,19jg1a0501@gvpcew.ac.in,FALSE,TRUE,FALSE,19JG1A0506
+19JG1A0507,Rohini,Badipetla,19jg1a0501@gvpcew.ac.in,FALSE,TRUE,FALSE,19JG1A0507
